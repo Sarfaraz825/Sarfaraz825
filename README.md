@@ -1,3 +1,4 @@
+![logo](https://github.com/Sarfaraz825/sarfaraz825/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Sarfaraz Ansari</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
